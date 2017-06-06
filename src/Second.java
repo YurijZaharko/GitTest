@@ -9,6 +9,9 @@ public class Second {
         System.out.println("it is  Ok");
         System.out.println("it is  Ok");
         System.out.println("it is  Ok");
+        System.out.println();
+        System.out.println();
+        System.out.println();
 
     }
 }
